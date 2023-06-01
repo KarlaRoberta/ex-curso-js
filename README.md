@@ -1,2 +1,2 @@
 # ex-curso-js
-exercicios do curso de JS
+Exercicios do curso de JavaScript
