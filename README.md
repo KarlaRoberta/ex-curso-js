@@ -1,2 +1,2 @@
-# ex-curso-js
-Exercicios do curso de JavaScript.
+# Exemplos de exercicios do curso-js
+Praticando os conhecimentos em JavaScript
